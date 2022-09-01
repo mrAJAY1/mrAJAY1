@@ -1,7 +1,9 @@
 ### Hello there 👋
 
-** I'm Ajay Prakash, Self taught MERN stack developer with extensive knowledge in developing webApps and websites.
-<img alt="Coder GIF" height=250 width=100% src="https://magiccopy.xyz/assets/images/hadder.gif" />
+I'm Ajay Prakash, Self taught MERN stack developer with extensive knowledge in developing webApps and websites.
+
+
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a social media project.
