@@ -51,15 +51,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrAJAY1&theme=tokyonight_duo" alt="mrAJAY1" /></p>
 
 </details>
-  
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-
-<a href="https://github.com/mrAJAY1"><img alt="mrAJAY1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrAJAY1&custom_title=mrAJAY1's%20Contribution%20Graph&theme=react-dark" /></a>
- 
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
