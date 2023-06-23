@@ -63,6 +63,5 @@
   <a href="">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-	  <a href="#"><img width="100%" height="350px" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"></a>
 
 </div>
