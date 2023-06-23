@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Ajay Prakash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-  <a href="#"><img width="100%" height="350px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47jtj7cb1a7b0n90knepqxp82bi38dr437g5sz6c58&rid=giphy.gif&ct=g"></a>
+  <a href="#"><img width="100%" height="350px" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"></a>
 </p>
 
 
@@ -63,4 +63,6 @@
   <a href="">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+	  <a href="#"><img width="100%" height="350px" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"></a>
+
 </div>
