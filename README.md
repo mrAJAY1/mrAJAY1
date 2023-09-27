@@ -44,13 +44,15 @@
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+		
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-<summary><h3> 🔥 Streak Stats</h3></summary>
-	
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>  Github Stats
+<p align="center">
+	<img alt='' src="https://github-readme-stats.vercel.app/api?username=mrAJAY1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" />
+	<img alt='' src="https://github-readme-streak-stats.herokuapp.com/?user=mrAJAY1&theme=tokyonight&hide_border=true" />
+	<img alt='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrAJAY1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrAJAY1&theme=tokyonight_duo" alt="mrAJAY1" /></p>
-
+</p>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
